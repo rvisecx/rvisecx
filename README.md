@@ -11,7 +11,7 @@
      I'm learning rust and malware development.
 </em></p>
 
- - 🌐 Website [RviSecxs](https://rvisecx.github.io/Rvisecx-s-Web/)
+ - 🌐 Website [RviSecxs](https://rvisecx.github.io/rui-website/)
  - 👾 Pentester
  - 💻 Programmer 
 
