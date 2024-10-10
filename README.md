@@ -3,7 +3,9 @@
 <div id="header" align="center">
   <img loop="infinite" width="auto" src="https://giffiles.alphacoders.com/143/143227.gif">
 </div>
-
+<p align=center>
+<img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" /> 
+<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust" />
 ## 💀 Hello! 💀
 
 <p><em> Hey I'm Rvisecx<br>
@@ -23,6 +25,4 @@
 <br>
 <br>
 <br>
-<p align=center>
-<img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" /> 
-<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust" />
+
