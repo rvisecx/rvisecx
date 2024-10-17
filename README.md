@@ -12,7 +12,7 @@
 
 <p><em> Hey I'm Rvisecx<br>
      I'm a hobbyist Programmer and Pentester <br>
-     I'm learning rust and malware development.
+     I'm learning rust too.
 </em></p>
 
  - 🌐 Website [RviSecxs](https://rvisecx.github.io/rui-website/)
