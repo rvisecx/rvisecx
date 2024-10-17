@@ -4,6 +4,17 @@
   <img loop="infinite" width="auto" src="https://giffiles.alphacoders.com/143/143227.gif">
 </div>
 
+## Hello! 🌱
+
+<p><em> Hey I'm Rvisecx<br>
+     I'm a hobbyist Programmer and Pentester <br>
+     I'm learning rust too.
+</em></p>
+
+ - 🌐 Website [RviSecxs](https://rvisecx.github.io/rui-website/)
+ - 👾 Pentester
+ - 💻 Programmer 
+
 # OS 🐧
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
@@ -21,16 +32,3 @@
 ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-## Hello! 🌱
-
-<p><em> Hey I'm Rvisecx<br>
-     I'm a hobbyist Programmer and Pentester <br>
-     I'm learning rust too.
-</em></p>
-
- - 🌐 Website [RviSecxs](https://rvisecx.github.io/rui-website/)
- - 👾 Pentester
- - 💻 Programmer 
-
-
