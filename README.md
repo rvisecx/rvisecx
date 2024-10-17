@@ -4,11 +4,25 @@
   <img loop="infinite" width="auto" src="https://giffiles.alphacoders.com/143/143227.gif">
 </div>
 
-<p align=center>
-<img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" /> 
-<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust" />
+# OS 🐧
 
-## 💀 Hello! 💀
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) 
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+
+# Lenguages 💻
+
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+## Hello! 🌱
 
 <p><em> Hey I'm Rvisecx<br>
      I'm a hobbyist Programmer and Pentester <br>
@@ -19,12 +33,4 @@
  - 👾 Pentester
  - 💻 Programmer 
 
-## 👨‍💻 Languages I use
-
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Rust" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-<br>
-<br>
-<br>
-<br>
 
